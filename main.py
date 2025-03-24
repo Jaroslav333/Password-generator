@@ -24,7 +24,7 @@ while lets_continue == 'Yes':
     print(f'Your password is: {result}')
     lets_continue = input('Do you want to generate another password ? For continue, write "Yes" or "No": ')
     if lets_continue != 'Yes':
-        print('Than you for using this app.') 
+        print('Thank you for using this app.') 
 
 
 
